@@ -1,0 +1,2 @@
+﻿libglx-mesa0
+libglib2.0-0

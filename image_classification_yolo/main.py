@@ -1,4 +1,4 @@
-﻿from image_classification_yolo.predict import Predict
+﻿from predict import Predict
 from PIL import Image
 
 prediction = Predict()
